@@ -1,0 +1,16 @@
+.nav-23 {
+    background-color: rgb(218, 215, 215);
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    
+    a {
+        text-decoration: none;
+        margin-right: 25px; 
+        color: black; 
+    }
+
+    a:last-child {
+        margin-right: 0; 
+    }
+}
